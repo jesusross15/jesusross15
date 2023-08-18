@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Jesús!
-- 🤖 I’m currently learning HTML and CSS!
+- 👋 Hi, my name is Jesús and welcome to my Github page.
+- 💻 I’m currently deep diving into Javascript!
 
 
 <!---
